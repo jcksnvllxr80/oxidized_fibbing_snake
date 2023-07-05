@@ -24,7 +24,7 @@ maturin develop
 maturin develop --release  # runs faster
 ```
 
-modify python code to import the package and use it
+modify python code to import the package and use it.  
 now you're ready to run the python script
 
 ---
